@@ -55,6 +55,7 @@ $.when(
 ).done(function(user, user_settings, user_notes){
   //now you have results from all 3 queries
 });
+```
 
 ## Open database
 
